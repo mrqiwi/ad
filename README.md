@@ -69,5 +69,11 @@ Second party data - данные рекламных активностей: ре
 Third party data - данные третьих сторон. Их источник - сервисы email-рассылок, платёжные системы, 
 сторонние сайты, сервисы обработки и хранения данных DMP.
 ```
+### Почитать
+```
+https://www.adopsinsider.com/ad-serving/
+https://wiki.kadam.net/index.php?title=RTB
+http://rtb-media.ru/wiki-openrtb/
+```
 
 
