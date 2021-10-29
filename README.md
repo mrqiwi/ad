@@ -90,13 +90,14 @@ Third party data — данные третьих сторон. Их источн
 ```
 ![alt text](./images/retargeting.png)
 ### Почитать
-```
-https://www.adopsinsider.com/ad—serving/
-https://wiki.kadam.net/index.php?title=RTB
-http://rtb—media.ru/wiki—openrtb/
-https://yandex.ru/dev/rtb/doc/api/index.html
-https://promopult.ru/library/Ad_Servers
-https://promopult.ru/library/%D0%A2%D0%B0%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BD%D0%B3
-```
+[www.adopsinsider.com/ad—serving](https://www.adopsinsider.com/ad—serving)
 
+[wiki.kadam.net/index.php?title=RTB](https://wiki.kadam.net/index.php?title=RTB)
 
+[rtb-media.ru/wiki/](http://rtb-media.ru/wiki/)
+
+[yandex.ru/dev/rtb/doc/api/index.html](https://yandex.ru/dev/rtb/doc/api/index.html)
+
+[promopult.ru/library/Ad_Servers](https://promopult.ru/library/Ad_Servers)
+
+[promopult.ru/library/Таргетинг](https://promopult.ru/library/%D0%A2%D0%B0%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BD%D0%B3)
